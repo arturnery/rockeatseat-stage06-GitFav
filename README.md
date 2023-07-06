@@ -29,8 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O projeto "GitFav" é um aplicativo que tem como funcionalidade a adição de usuários do GitHub a uma lista escolhida pelo usuário.
 
-- [Visite o projeto online](https://arturnery.github.io/rockeatseat-stage-05-projeto-IMC/)
-
+- [Visite o projeto online](https://arturnery.github.io/rockeatseat-stage06-GitFav/)
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
